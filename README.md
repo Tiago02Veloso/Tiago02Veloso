@@ -4,7 +4,7 @@
 
 **`Desenvolvedor`**
 
-Olá! Me chamo Tiago Veloso, tenho 34 anos e sou natural do Distrito Federal - Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na **Estácio**. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados.
+Olá! Me chamo Tiago Veloso, tenho 34 anos e sou natural do Distrito Federal - Brasília. Atualmente, Sou formado em Análise e Desenvolvimento de Sistemas na **Estácio**. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados.
 
 <div align="center">
     <a href="https://www.youtube.com/@tiagoveloso2820">
